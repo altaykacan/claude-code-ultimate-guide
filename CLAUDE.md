@@ -1,5 +1,15 @@
 # Claude Code Ultimate Guide - Project Context
 
+## Fork Notice
+
+This is **Altay's personal learning fork** of the original [claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) by Florian Bruniaux.
+
+**Purpose of this fork**: To help Altay learn how Claude Code works — internalizing the concepts, workflows, and best practices documented here — through hands-on exploration. The intent is **not** to modify the guide content or templates, but to use this repo as a sandbox for understanding Claude Code deeply.
+
+**Do not modify guide content or examples** unless Altay explicitly asks for it. The value of this fork is in the learning process, not in producing new documentation.
+
+---
+
 ## Purpose
 
 This repository is the **comprehensive documentation for Claude Code** (Anthropic's CLI tool). It teaches users how to use Claude Code effectively through guides, examples, and templates.
